@@ -1,6 +1,6 @@
 # Extreme heat and cause-specific risk of hospital admission in the adult population in England: a case time series analysis
 
-Add DOI when available.
+[![DOI](https://doi.org/10.5281/zenodo.19865006)](https://doi.org/10.5281/zenodo.19865006)
 
 Partially reproducible code performing the analysis reported in the paper:
 

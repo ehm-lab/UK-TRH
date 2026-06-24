@@ -4,7 +4,7 @@ Add DOI when available.
 
 Partially reproducible code performing the analysis reported in the paper:
 
-> Flower G, Cole R, Libardi ADLC, *et al*. Extreme heat and cause-specific risk of hospital admission in the adult population in England: a case time series analysis. *BMJ Open* (2026). [https://doi.org/10.1136/bmjopen-2025-105321](10.1136/bmjopen-2025-105321)
+> Flower G, Cole R, Libardi ADLC, *et al*. Extreme heat and cause-specific risk of hospital admission in the adult population in England: a case time series analysis. *BMJ Open* (2026). [10.1136/bmjopen-2025-105321](https://doi.org/10.1136/bmjopen-2025-105321)
 
 ## Scripts
 
